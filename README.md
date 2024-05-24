@@ -11,4 +11,4 @@
  - 00001107061581sp@al.educacao.sp.gov.br
  - @GabrielleCunharib
 
- - https://media1.tenor.com/m/3yinSke0rykAAAAC/love-you.gif
+ ![](https://media1.tenor.com/m/3yinSke0rykAAAAC/love-you.gif)
